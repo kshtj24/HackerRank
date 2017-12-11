@@ -42,22 +42,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Greedy\Greedy Florist.cs" />
+    <Compile Include="Algorithms\Greedy\Jim and the Orders.cs" />
     <Compile Include="Algorithms\Greedy\Luck Balance.cs" />
     <Compile Include="Algorithms\Greedy\Marcs Cakewalk.cs" />
     <Compile Include="Algorithms\Greedy\Mark and Toys.cs" />
+    <Compile Include="Algorithms\Greedy\Max Min.cs" />
     <Compile Include="Algorithms\Greedy\Maximum Perimeter Triangle.cs" />
     <Compile Include="Algorithms\Greedy\Minimum Absolute Difference in an Array.cs" />
     <Compile Include="Algorithms\Greedy\Priyanka and Toys.cs" />
     <Compile Include="Algorithms\Greedy\Sherlock and The Beast.cs" />
+    <Compile Include="Algorithms\Implementation\Beautiful Days at the Movies.cs" />
     <Compile Include="Algorithms\Implementation\Bon Appetit.cs" />
     <Compile Include="Algorithms\Implementation\Breaking the records.cs" />
     <Compile Include="Algorithms\Implementation\Cats and a Mouse.cs" />
     <Compile Include="Algorithms\Implementation\Divisible sum pairs.cs" />
     <Compile Include="Algorithms\Implementation\Electronics Shop.cs" />
     <Compile Include="Algorithms\Implementation\Equalize the Array.cs" />
+    <Compile Include="Algorithms\Implementation\Find Digits.cs" />
     <Compile Include="Algorithms\Implementation\Grading Students.cs" />
     <Compile Include="Algorithms\Implementation\Sock merchant.cs" />
     <Compile Include="Algorithms\Implementation\The Hurdle Race.cs" />
+    <Compile Include="Algorithms\Sorting\Counting Sort 2.cs" />
+    <Compile Include="Algorithms\Strings\CamelCase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Algorithms\Implementation\Viral Advertising.cs" />
   </ItemGroup>
