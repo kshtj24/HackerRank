@@ -4,3 +4,6 @@ c:\users\kshitij.saxena\documents\visual studio 2017\Projects\Hackerrank\Hackerr
 c:\users\kshitij.saxena\documents\visual studio 2017\Projects\Hackerrank\Hackerrank\obj\Debug\Hackerrank.csprojResolveAssemblyReference.cache
 c:\users\kshitij.saxena\documents\visual studio 2017\Projects\Hackerrank\Hackerrank\obj\Debug\Hackerrank.exe
 c:\users\kshitij.saxena\documents\visual studio 2017\Projects\Hackerrank\Hackerrank\obj\Debug\Hackerrank.pdb
+D:\My Projects\HackerRank\Hackerrank\obj\Debug\Hackerrank.csprojResolveAssemblyReference.cache
+D:\My Projects\HackerRank\Hackerrank\obj\Debug\Hackerrank.exe
+D:\My Projects\HackerRank\Hackerrank\obj\Debug\Hackerrank.pdb
